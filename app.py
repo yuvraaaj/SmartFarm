@@ -15,7 +15,7 @@ import io
 import torch
 from torchvision import transforms
 from PIL import Image
-from model import ResNet9
+
 
 
 # ==============================================================================================
